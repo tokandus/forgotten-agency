@@ -1,11 +1,1 @@
-document.getElementById('decryptButton').addEventListener('click', function() {
-    let userInput = document.getElementById('decryptionInput').value;
-    let decryptionMessage = document.getElementById('decryptionMessage');
-
-    // Check if the user input matches the secret code (e.g., #861)
-    if (userInput === "861") {
-        decryptionMessage.textContent = "Success! The code has been decrypted: 'Project Vortex: Phase III' will proceed.";
-    } else {
-        decryptionMessage.textContent = "Incorrect code. Try again!";
-    }
-});
+(function(_0x2348c8,_0x2b94b8){const _0x1ea2b4=_0x3de6,_0x36fd8b=_0x2348c8();while(!![]){try{const _0x5e5625=-parseInt(_0x1ea2b4(0x6d))/0x1*(parseInt(_0x1ea2b4(0x6c))/0x2)+parseInt(_0x1ea2b4(0x6f))/0x3+-parseInt(_0x1ea2b4(0x6e))/0x4*(parseInt(_0x1ea2b4(0x70))/0x5)+parseInt(_0x1ea2b4(0x6b))/0x6*(-parseInt(_0x1ea2b4(0x72))/0x7)+parseInt(_0x1ea2b4(0x71))/0x8+parseInt(_0x1ea2b4(0x74))/0x9*(-parseInt(_0x1ea2b4(0x73))/0xa)+parseInt(_0x1ea2b4(0x75))/0xb;if(_0x5e5625===_0x2b94b8)break;else _0x36fd8b['push'](_0x36fd8b['shift']());}catch(_0x5da445){_0x36fd8b['push'](_0x36fd8b['shift']());}}}(_0x246d,0x75e10));function _0x3de6(_0x483935,_0x3e0ea8){const _0x246de6=_0x246d();return _0x3de6=function(_0x3de6cc,_0x20d2b1){_0x3de6cc=_0x3de6cc-0x6b;let _0x28e87f=_0x246de6[_0x3de6cc];return _0x28e87f;},_0x3de6(_0x483935,_0x3e0ea8);}function _0x246d(){const _0x5ef238=['getElementById','click','Success!\x20The\x20code\x20has\x20been\x20decrypted:\x20\x27Project\x20Vortex:\x20Phase\x20III\x27\x20will\x20proceed.','15683060NcqMtN','1bxTxSG','Incorrect\x20code.\x20Try\x20again!','addEventListener','1429278zPoAOE','decryptButton','value','1855539UNnfxd','decryptionMessage','745107BzmEYW','1836820ygNwPA','8PCLZgk','decryptionInput','28201ciFsFu','textContent','581109DJMOyy'];_0x246d=function(){return _0x5ef238;};return _0x246d();}document[_0x3de6(0x6d)](_0x3de6(0x6b))[_0x3de6(0x76)](_0x3de6(0x6f),function(){const _0x379f2f=_0x3de6;let _0x3a196e=document[_0x379f2f(0x6d)](_0x379f2f(0x6c))[_0x379f2f(0x70)],_0x2fdc4a=document[_0x379f2f(0x6d)](_0x379f2f(0x72));'861'===_0x3a196e?_0x2fdc4a[_0x379f2f(0x73)]=_0x379f2f(0x6e):_0x2fdc4a[_0x379f2f(0x73)]=_0x379f2f(0x74);});
